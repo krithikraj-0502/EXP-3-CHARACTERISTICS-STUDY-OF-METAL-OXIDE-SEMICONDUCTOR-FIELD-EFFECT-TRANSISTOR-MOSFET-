@@ -72,6 +72,7 @@ Repeat the observation for different constant values of VGS.
 Simulation Results
 
  ID vs. VDS for different values of VGS.
+<img width="1920" height="1080" alt="ED(EXP2)" src="https://github.com/user-attachments/assets/ec06aa66-94f6-4d22-98ca-d0f295963178" />
 
 
 
